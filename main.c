@@ -6,7 +6,7 @@ int main()
      int age = 25;
     float height = 5.670f;
     double distance = 120075.678957446;
-    char initial = 'A';
+    char initial = 'B';
 
     printf(" INTEGER VARIABLE NAMED AGE IS %d\n\n" , age);
     printf("FLOAT VARIABLE NAMED HEIGHT IS %f\n\n" , height);
